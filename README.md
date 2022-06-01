@@ -1,4 +1,5 @@
-  <h1 align="center">Oi meu nome é Inan Brunelli</h1></img>
+  <h1 align="center">Oi meu nome é Inan Brunelli</h1>
+  <h2 align="center">Full Stack Web Developer</h2>
   <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
