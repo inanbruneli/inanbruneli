@@ -1,3 +1,4 @@
+  <h1 align="center">Oi meu nome é Inan Brunelli</h1></img>
   <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -31,9 +32,6 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-
-<h1 align="center">Oi meu nome é Inan Brunelli</h1></img>
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="25px">
 
 <p align="center">
   <a href="https://github.com/seu-usuario">
