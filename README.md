@@ -15,7 +15,7 @@
   I love meeting people and creating connections.
   <br/>
   <hr>
-  You can see some of my projects in my <a href='https://inanbruneli.github.io/portifolio/'>portfolio</a>
+  You can see some of my projects in my <a href='https://inanbrunelli.vercel.app/'>portfolio</a>
   
 ### 🚀 &nbsp;Tech Stack
 
